@@ -24,5 +24,22 @@ The one animal in FarmingSimulator22 that doesn't really have a purpose is Horse
 ## Note
 This mod will overwrite any prices set by any modded map; For example, if you're using the map "Hinterland" which has a sell price at 36 months for Horses of 40,000 - this mod will override that sell price to 50,000.
 
+## Screenshots
 
-_Enjoy!_
+![0 Months Played](/_screenshots/screenshot_1.png)
+_Just after buying our first horse, Noir_
+
+![12 Months Played](/_screenshots/screenshot_2.png)
+_Value after 12 months of playtime, with daily riding_
+
+![24 Months Played](/_screenshots/screenshot_3.png)
+_Value after 24 months of playtime_
+
+![36 Months Played](/_screenshots/screenshot_4.png)
+_Value after 36 months of playtime; This is the peak sell price_
+
+![48 Months Played](/_screenshots/screenshot_5.png)
+_Value after 48 months of playtime_
+
+![60 Months Played](/_screenshots/screenshot_6.png)
+_alue after 60 months of playtime; Sell price should remain at this value_
