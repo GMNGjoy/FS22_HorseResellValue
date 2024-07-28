@@ -5,15 +5,14 @@ The one animal in FarmingSimulator22 that doesn't really have a purpose is Horse
 
 
 ## Description from the ModDesc
-> It's time to make horses actually worth raising! This script mod updates the buy & sell prices of horses to be more accurate with the work you put into them.
+> It's time to make raising horses worth more! This script mod increases the sell price of horses to be more accurate with the work you put into them, and even makes them a bit cheaper to buy!
 >
-> Sell Price at 36 months: 50,000 (peak price)
+> Sell Price at 36 months: 50,000 (peak price)\
 > Sell Price at 60 months: 40,000
 >
 > Special Thanks to Dustbunny for the idea!
 >
-> License: CC0 1.0 Universal
-> Requests or Issues: https://github.com/GMNGjoy/FS22_HorseResellValue
+> For license & feedback, please visit: https://github.com/GMNGjoy/FS22_HorseResellValue
 
 
 ## Installation Instructions
