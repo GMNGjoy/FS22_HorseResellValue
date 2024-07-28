@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="80">
+    <author>GMNGjoy</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Horse Resell Value</en>
+        <de>Wiederverkaufswert Des Pferdes</de>
+    </title>
+    <description>
+        <en><![CDATA[
+It's time to make raising horses worth more! This script mod increases the sell price of horses to be more accurate with the work you put into them, and even makes them a bit cheaper to buy!
+
+Sell Price at 36 months: $50,000 (peak price)
+Sell Price at 60 months: $40,000
+
+Special Thanks to Dustbunny for the idea!
+
+For license & feedback, please visit: https://github.com/GMNGjoy/FS22_HorseResellValue
+]]>
+        </en>
+        <de><![CDATA[
+Es ist an der Zeit, dass sich die Pferdezucht mehr lohnt! Diese Skript-Mod passt den Verkaufspreis von Pferden so an, dass dieser in einem guten Verhältnis zu der investierten Arbeit steht, und reduziert den Einkaufspreis sogar etwas!
+
+Verkaufspreis im Alter von 36 Monaten: 50,000 (Maximaler Verkaufspreis)
+Verkaufspreis im Alter von 60 Monaten: 40,000
+
+Vielen Dank an Dustbunny für diese Idee!
+
+Besucht für Feedback & die Lizenz bitte:  https://github.com/GMNGjoy/FS22_HorseResellValue
+]]>
+        </de>
+    </description>
+    <iconFilename>icon_horseResellValue.dds</iconFilename>
+    <multiplayer supported="true" />
+    <extraSourceFiles>
+        <sourceFile filename="UpdateHorseResellValue.lua"/>
+    </extraSourceFiles>
+</modDesc>
